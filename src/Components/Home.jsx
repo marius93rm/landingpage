@@ -70,7 +70,7 @@ function Home() {
                 </ul>
               </Card.Text>
               <div className="d-grid gap-2">
-                <Button variant="outline-primary" size="lg">Contact us</Button>
+                <Button variant="primary" size="lg">Contact us</Button>
               </div>
             </Card.Body>
           </Card>
